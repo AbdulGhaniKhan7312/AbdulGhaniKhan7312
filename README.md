@@ -1,4 +1,8 @@
-# 💫 About Me:
+<div id="header1" align="center">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" width="800"/>
+</div>
+
+# 👋 Hi, I'm Abdul Ghani Khan!
 🔭 I’m currently working on:<br><br> - Implementing reinforcement learning algorithms to optimize taxi routes and stock trading strategies.<br> - Developing deep learning models to detect cybersecurity threats in network traffic.<br><br>🌱 I’m currently learning:<br><br> - Advanced neural network architectures and their applications in image classification and natural language processing.<br> - Enhancing my skills in data engineering and cloud computing to better manage large-scale datasets.<br><br>👯 I’m looking to collaborate on:<br><br> - Open-source machine learning projects that leverage predictive analytics or reinforcement learning.<br> - Innovative data science solutions in fintech, e-commerce, or healthcare.<br><br>🤔 I’m looking for help with:<br><br> - Fine-tuning deep learning models for real-time applications.<br> - Exploring the integration of data science with robotic process automation to streamline business operations.<br><br>💬 Ask me about:<br><br> - Data Science & Machine Learning<br> - Reinforcement Learning<br> - Natural Language Processing <br> - Exploratory Data Analysis<br><br>📫 How to reach me:<br><br>Email: kghani134@gmail.com<br>LinkedIn: https://www.linkedin.com/in/abdul-ghani-khan-614118202/<br>Portfolio: https://www.datacamp.com/portfolio/kghani134<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: When I’m not coding, I enjoy exploring AI-driven solutions to everyday problems, and I’m always up for a good strategy game!
 
 
